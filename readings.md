@@ -18,7 +18,22 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@littman2001predictive]
 * [@levy2011unified]
 * [@diuk2013divide]
+* [@ghavamzadeh2015bayesian]
+* [@andreas2016neural]
+* [@optioncritic]
+* [@duan2016rl]
+* [@silver2016mastering]
+* [@andreas2017modular]
+* [@duan2017meta]
+* [@finn2017model]
+* [@silver2017mastering]
+* [@vezhnevets2017feudal]
+* [@abel2018policy]
+* [@chang2018automatically]
+* [@frans2018meta]
 
 #### Cognitive Science
 
+* [@gershman2015novelty]
+* [@wang2016learning]
 * [@dubey2018investigating]
