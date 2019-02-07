@@ -3,7 +3,7 @@
 *Readings list currently under construction. Check back soon for more!*
 
 For reference, we have compiled a list of some important publications on the topic of structure and priors in reinforcement learning.
-Please make a pull request at the spirl-readings repository or
+Please make a pull request at the [spirl-readings repository](https://github.com/eringrant/spirl-readings) or
 email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's relevant work that could be added to the list!
 
 #### Reinforcement Learning

@@ -9,7 +9,8 @@ csl: 'chicago-syllabus.csl'
 
 For reference, we have compiled a list of some important publications on
 the topic of structure and priors in reinforcement learning. Please make
-a pull request at the spirl-readings repository or email us at
+a pull request at the [spirl-readings
+repository](https://github.com/eringrant/spirl-readings) or email us at
 <organizers@spirl.info> if there's relevant work that could be added to
 the list!
 
