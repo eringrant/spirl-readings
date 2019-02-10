@@ -57,7 +57,7 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@silver2017predictron]
 * [@ok2018exploration]
 * [@sanchez2018graph]
-* [@lowrey2018plan]
+* [@lowrey2019plan]
 
 #### Transfer, Multi-Task and Lifelong RL
 * [@taylor2009transfer]
