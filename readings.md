@@ -1,6 +1,6 @@
 ### Related Work
 
-For reference, we have compiled a list of some important publications on the topic of structure and priors in reinforcement learning.
+For reference, we have compiled a list of some important publications on the topic of structure and priors in reinforcement learning (RL).
 Please make a pull request at the [spirl-readings repository](https://github.com/eringrant/spirl-readings) or
 email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's relevant work that could be added to the list!
 
@@ -12,7 +12,7 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@gershman2015novelty]
 * [@dubey2018investigating]
 
-#### Hierarchy
+#### Hierarchical RL
 * [@dayan1992feudal]
 * [@sutton1999between]
 * [@dietterich2000hierarchical]
