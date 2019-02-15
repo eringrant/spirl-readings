@@ -6,15 +6,25 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 
 #### Cognitive Science
 * [@trommershauser2008decision]
-* [@botvinick2009hierarchically]
 * [@diuk2013divide]
+* [@solway2014optimal]
 * [@boureau2015deciding]
 * [@gershman2015novelty]
+* [@lieder2017strategy]
+* [@momennejad2017successor]
 * [@dubey2018investigating]
+* [@konidaris2019necessity]
+
+#### Neuroscience
+* [@schultz1997neural]
+* [@botvinick2009hierarchically]
+* [@ribas2011neural]
+* [@gershman2018successor]
 
 #### Hierarchical RL
 * [@dayan1992feudal]
 * [@sutton1999between]
+* [@parr1997reinforcement]
 * [@dietterich2000hierarchical]
 * [@levy2011unified]
 * [@bacon2017option]
@@ -30,6 +40,7 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@saemundsson2018meta]
 
 #### Modularity in RL
+* [@singh1992transfer]
 * [@heess2016learning]
 * [@andreas2017modular]
 * [@devin2017learning]
@@ -45,10 +56,8 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@osband2018randomized]
 
 #### Structure in RL
-* [@singh1992transfer]
 * [@thrun1994finding]
 * [@sutton1995td]
-* [@parr1997reinforcement]
 * [@littman2001predictive]
 * [@ponsen2009abstraction]
 * [@sutton2011horde]
@@ -57,7 +66,6 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@silver2017predictron]
 * [@ok2018exploration]
 * [@sanchez2018graph]
-* [@lowrey2019plan]
 
 #### Transfer, Multi-Task and Lifelong RL
 * [@taylor2009transfer]
