@@ -65,6 +65,7 @@ email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's rel
 * [@tamar2016value]
 * [@silver2017predictron]
 * [@ok2018exploration]
+* [@ganin2018synthesizing]
 * [@sanchez2018graph]
 
 #### Transfer, Multi-Task and Lifelong RL
