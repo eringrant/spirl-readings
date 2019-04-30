@@ -11,4 +11,4 @@ To contribute a reference, either email [organizers@spirl.info](mailto:organizer
 4. Add a reference to the BibTeX entry using its key to the appropriate section in [readings.md](readings.md).
 5. Submit the pull request.
 
-Your reference will be compiled to the website after your pull request is merged. Thank you for contributing!
+See [this commit](https://github.com/eringrant/spirl-readings/commit/134c77bbebf67e3e34cc0a4277b4a841340b62a3) for an example. Your reference will be compiled to the website after your pull request is merged. Thank you for contributing!
