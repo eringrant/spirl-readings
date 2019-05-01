@@ -4,6 +4,8 @@ For reference, we have compiled a list of some important publications on the top
 Please make a pull request at the [spirl-readings repository](https://github.com/eringrant/spirl-readings) or
 email us at [organizers@spirl.info](mailto:organizers@spirl.info) if there's relevant work that could be added to the list!
 
+Thanks to [Michael Janner](https://people.eecs.berkeley.edu/~janner/) for contributing!
+
 #### Cognitive Science
 * [@trommershauser2008decision]
 * [@diuk2013divide]
