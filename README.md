@@ -1,7 +1,7 @@
 # spirl-readings
-A collection of reading material for the [Workshop on "Structure &amp; Priors in Reinforcement Learning" (SPiRL)](http://spirl.info/).
+A collection of reading material for the [Workshop on "Structure &amp; Priors in Reinforcement Learning" (SPiRL)](https://eringrant.github.io/spirl).
 
-To contribute a reference, either email [organizers@spirl.info](mailto:organizers@spirl.info) or follow the instructions below to make a pull request.
+To contribute a reference, follow the instructions below to make a pull request.
 
 ### Pull Request Instructions
 
